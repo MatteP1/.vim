@@ -37,7 +37,7 @@
 	set number relativenumber
 	set title
 
-" Remappings	h: left		j: down		k: up	l: right
+" Remappings	h:left		k:down		l:up	n:right
 	noremap k <down>
 	noremap l <up>
 	noremap n <right>
